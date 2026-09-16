@@ -1,8 +1,16 @@
 # Foam homepage concept
 
-Chrome-simple marketing page: magazine photograph, search overlay, work mosaic, Talent / Work / Pitch boxes.
+Chrome-simple marketing page.
 
-Open `index.html` from the project zip (`artifacts/foam-homepage.zip`) so the photographs load. This repo holds the page structure.
+- Search pill on the photograph rotates three queries
+- Talent / Work / Pitch boxes
+- Staged kit face only — no live roster names
 
-Live product: https://www.foam.io
-Volume One issue: https://www.foam.io/foundwithfoam_vol_01
+## Local
+
+Open `index.html` from this repo, or the zip in the project folder.
+
+## Pages
+
+Settings → Pages → Source: GitHub Actions.
+After the workflow runs: `https://steveblackboxapi.github.io/foam-homepage/`
